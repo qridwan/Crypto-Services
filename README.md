@@ -1,13 +1,15 @@
 # CRYPTO SERVICES
 
-# [Live DEMO]()
+# [Live DEMO](https://crypto-bitfex.netlify.app/)
 ## Technology Used:
 - ReactJS 
+- Firebase Authentication (Bonus Part)
+- React-Redux
 - Styled Component
 - Bootstrap / React-bootstrap
-- Firebase Authentication
-- React-Redux
+- Netlify (For Hosting)
 
-Core Features: 
-- Complete UI for Crypto Services  
+
+View:   
 ![homeSS](src/screenshot/Header.png)
+- Complete UI for Crypto Services
