@@ -55,6 +55,7 @@ const Footer = () => {
           </Row>
         </Col>
       </Row>
+      <Copyright>Copyright © 2021 Bitfex, All Right Reserved</Copyright>
     </Section>
   );
 };
@@ -78,6 +79,10 @@ const Title = styled.p`
 `;
 const List = styled.p`
 margin: 0;`;
+const Copyright = styled.p`
+margin: 0;
+font-size: 10px;
+`;
 const Info = styled.p`
 font-size: 10px;
 `;
