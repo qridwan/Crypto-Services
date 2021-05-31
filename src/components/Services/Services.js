@@ -39,6 +39,8 @@ export default connect(mapStateToProps)(Services);
 
 const Section = styled.div`
   margin: 50px 0;
+  position: relative;
+  z-index: 1000;
 `;
 const Heading = styled.p`
   font-size: 45px;

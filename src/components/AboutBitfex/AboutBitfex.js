@@ -42,7 +42,10 @@ const mapStateToProps = (state) => (
 
 export default connect(mapStateToProps)(AboutBitfex);
 
-const AboutSection = styled.div``;
+const AboutSection = styled.div`
+position: relative;
+z-index: 1000;
+`;
 const Heading = styled.p`
 font-size: 45px;
 font-weight: bold;

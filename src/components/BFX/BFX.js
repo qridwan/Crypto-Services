@@ -25,6 +25,8 @@ export default BFX;
 
 const Section = styled.div`
   margin: 60px 0;
+  position: relative;
+  z-index: 1000;
 `;
 const Details = styled.div``;
 const Heading = styled.p`

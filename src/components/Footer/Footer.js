@@ -63,6 +63,7 @@ export default Footer;
 
 const Section = styled.div`
 background-color: #030303; 
+
 `;
 const Underline = styled.p`
   content: " ";

@@ -41,4 +41,6 @@ background-color: #030303;
 padding: 40px 0;
 border: none ;
 border-radius: 40px 40px 0 0;
+position: relative;
+z-index: 1000;
 `
